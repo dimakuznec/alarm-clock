@@ -13,9 +13,9 @@
 
 Посмотрите видео с демонстрацией работы приложения:
 
-[![Watch the video](https://img.youtube.com/vi/05nBV6l3Ecs/0.jpg)](https://youtu.be/05nBV6l3Ecs)
+[![Watch the video](https://img.youtube.com/vi/DnlQQDNscBs/0.jpg)](https://youtu.be/DnlQQDNscBs)
 
-[Просмотреть видео на Google Drive](https://drive.google.com/file/d/1rdjxoocmEhqVau82e6DvnA15azoxxlKC/view?t=34)
+[Просмотреть видео на Google Drive](https://drive.google.com/file/d/18UxVPLCTCjeKLy6yeO2JZOlG9pD9bD17/view?usp=sharing&t=24)
 
 
 ## Установка
