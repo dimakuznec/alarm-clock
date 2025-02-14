@@ -21,5 +21,5 @@
 ## Установка
 1. Клонируйте репозиторий на ваш локальный компьютер.
 ```bash
-git clone https://github.com/your-username/modern-clock.git
+git clone https://github.com/dimakuznec/alarm-clock.git
 
